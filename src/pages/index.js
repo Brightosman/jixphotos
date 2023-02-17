@@ -3,7 +3,7 @@ import Image from 'next/image'
 import { Inter } from '@next/font/google'
 import styles from '@/styles/Home.module.css'
 import Hero from '@/components/Hero'
-import Slider from '@/components/slider'
+import Slider from '@/components/Slider'
 import { SliderData } from '@/components/SliderData'
 import Instagram from '@/components/Instagram'
 
